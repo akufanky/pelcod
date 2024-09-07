@@ -1,0 +1,2 @@
+# pelcod
+Ini latihan coding
